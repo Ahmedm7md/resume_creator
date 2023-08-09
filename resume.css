@@ -1,0 +1,49 @@
+#name{
+    background-color: lightsalmon;
+    height: 70px;
+    padding-top: 15px;padding-bottom: 15px;
+    margin-top: 40px;
+    position: sticky;
+    position: relative;top: 30px;
+}
+#fullName{
+    position: relative;bottom: 20px;
+}
+
+#leftSide{
+    background-color: rgb(49, 149, 125) ;
+    margin-left: 30px;margin-right: 800px;
+    position: relative;bottom: 340px;left: 20px;
+    padding-top:150px ;
+    height: fit-content;
+    word-wrap: break-word;
+    position: sticky;
+    color: antiquewhite;
+}
+
+li{
+    font-weight: bold;
+}
+
+#resumePic{
+    width: 150px;
+    height: 120px;
+   position: absolute;top: 10%;left: 5%;
+   border-radius: 100%;
+}
+
+#fullResume{
+    word-wrap: break-word;
+}
+
+.mar{
+    margin-left: 240px;
+    margin-right: 100px;
+    text-align: left;
+}
+
+.header{
+    margin-left: 240px;
+    margin-right: 100px;
+    text-align: left;
+}
